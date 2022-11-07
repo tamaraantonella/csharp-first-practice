@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\primer-programa\bin\Debug\net6.0\primer-programa.exe
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\primer-programa\bin\Debug\net6.0\primer-programa.deps.json
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\primer-programa\bin\Debug\net6.0\primer-programa.runtimeconfig.json
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\primer-programa\bin\Debug\net6.0\primer-programa.dll
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\primer-programa\bin\Debug\net6.0\primer-programa.pdb
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\primer-programa\obj\Debug\net6.0\primer-programa.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\primer-programa\obj\Debug\net6.0\primer-programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\primer-programa\obj\Debug\net6.0\primer-programa.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\primer-programa\obj\Debug\net6.0\primer-programa.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\primer-programa\obj\Debug\net6.0\primer-programa.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\primer-programa\obj\Debug\net6.0\primer-programa.dll
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\primer-programa\obj\Debug\net6.0\refint\primer-programa.dll
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\primer-programa\obj\Debug\net6.0\primer-programa.pdb
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\primer-programa\obj\Debug\net6.0\primer-programa.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\primer-programa\obj\Debug\net6.0\ref\primer-programa.dll
