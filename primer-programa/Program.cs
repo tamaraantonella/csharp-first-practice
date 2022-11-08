@@ -9,6 +9,7 @@ namespace primer_programa
     {
       int km,vel;
       Console.WriteLine("Ingresar km existentes  entre ambas ciudades");
+
       km = int.Parse(Console.ReadLine());
       Console.WriteLine("Ingresar velocidad promedio");
       vel = int.Parse(Console.ReadLine());
