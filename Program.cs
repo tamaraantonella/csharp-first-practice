@@ -7,10 +7,14 @@ namespace primer_programa
     // programa principal (función principal)
     static void Main(string[] args)
     {
-      int a;
-      Console.WriteLine("Ingresar un nùmero para elevar al cuadrado");
-      a = int.Parse(Console.ReadLine());
-      Console.WriteLine("El cuadrado de " + a + " es " + a*a);
+      int km,vel;
+      Console.WriteLine("Ingresar km existentes  entre ambas ciudades");
+      km = int.Parse(Console.ReadLine());
+      Console.WriteLine("Ingresar velocidad promedio");
+      vel = int.Parse(Console.ReadLine());
+      float tiempo;
+      tiempo = km/vel;
+      Console.WriteLine("El tiempo de viaje es de: " + tiempo + " horas");
     }
     }
 }
