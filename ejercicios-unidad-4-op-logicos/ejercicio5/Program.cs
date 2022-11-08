@@ -21,11 +21,6 @@ namespace primer_programa
         Console.WriteLine("Los números se encuentran ordenados");
       else
         Console.WriteLine("Los numero no se encuentran ordenados");
-
-
-
-
-
     }
     }
 }
