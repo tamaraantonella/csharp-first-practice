@@ -7,14 +7,11 @@ namespace primer_programa
     // programa principal (función principal)
     static void Main(string[] args)
     {
-      int a, b;
-      Console.WriteLine("Enter the first number:");
-      a=int.Parse(Console.ReadLine());
-      Console.WriteLine("Enter the second number:");
-      b=int.Parse(Console.ReadLine());
-      int resultado= a+b;
-      Console.WriteLine(resultado);
-  }
+      int a;
+      Console.WriteLine("Ingresar un nùmero para elevar al cuadrado");
+      a = int.Parse(Console.ReadLine());
+      Console.WriteLine("El cuadrado de " + a + " es " + a*a);
+    }
     }
 }
 
