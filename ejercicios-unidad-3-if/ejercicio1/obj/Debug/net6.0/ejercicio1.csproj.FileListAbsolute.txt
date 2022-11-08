@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\ejercicios-unidad-3-if\ejercicio1\bin\Debug\net6.0\ejercicio1.exe
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\ejercicios-unidad-3-if\ejercicio1\bin\Debug\net6.0\ejercicio1.deps.json
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\ejercicios-unidad-3-if\ejercicio1\bin\Debug\net6.0\ejercicio1.runtimeconfig.json
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\ejercicios-unidad-3-if\ejercicio1\bin\Debug\net6.0\ejercicio1.dll
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\ejercicios-unidad-3-if\ejercicio1\bin\Debug\net6.0\ejercicio1.pdb
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\ejercicios-unidad-3-if\ejercicio1\obj\Debug\net6.0\ejercicio1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\ejercicios-unidad-3-if\ejercicio1\obj\Debug\net6.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\ejercicios-unidad-3-if\ejercicio1\obj\Debug\net6.0\ejercicio1.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\ejercicios-unidad-3-if\ejercicio1\obj\Debug\net6.0\ejercicio1.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\ejercicios-unidad-3-if\ejercicio1\obj\Debug\net6.0\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\ejercicios-unidad-3-if\ejercicio1\obj\Debug\net6.0\ejercicio1.dll
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\ejercicios-unidad-3-if\ejercicio1\obj\Debug\net6.0\refint\ejercicio1.dll
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\ejercicios-unidad-3-if\ejercicio1\obj\Debug\net6.0\ejercicio1.pdb
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\ejercicios-unidad-3-if\ejercicio1\obj\Debug\net6.0\ejercicio1.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Programacion\MaxiPrograma\01-C-Nivel1\ejercicios-unidad-3-if\ejercicio1\obj\Debug\net6.0\ref\ejercicio1.dll
