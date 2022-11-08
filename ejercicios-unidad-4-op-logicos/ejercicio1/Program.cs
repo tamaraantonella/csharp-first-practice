@@ -11,6 +11,10 @@ namespace primer_programa
       //  El producto si el primero es menor.
       // Se deberá emitir un cartel por pantalla con el resultado correspondiente.
       int a, b;
+      Console.WriteLine("Ingrese numero 1");
+      a = int.Parse(Console.ReadLine());
+      Console.WriteLine("Ingrese numero 2");
+      b = int.Parse(Console.ReadLine());
       if(a > b)
         Console.WriteLine(a - b);
       else if(a < b)
