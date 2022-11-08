@@ -25,6 +25,23 @@ namespace primer_programa
         Console.WriteLine("El numero no es primo");
       else
         Console.WriteLine("El numero es primo");
+
+      //*otra manera de hacerlo
+      //int numero,con=0;
+      //Console.WriteLine("Ingrese un numero");
+      //numero=int.Parse(Console.ReadLine());
+      //for (int i = 2; i < numero; i++)
+      //{
+      //  if (numero % i == 0)
+      //  {
+      //    con++;
+      //  }
+      //}
+      //if (con ===2)
+      //  Console.WriteLine("El numero no es primo");
+      //else
+      //  Console.WriteLine("El numero es primo");
+
     }
     }
 }
