@@ -13,10 +13,11 @@ namespace primer_programa
       {
         Console.WriteLine("Ingrese un numero");
         int actual = int.Parse(Console.ReadLine());
+        if(i==0)
+          mayor = actual;
         if(actual > mayor)
           mayor = actual;
       }
-
       Console.WriteLine("El mayor es: " + mayor);
     }
     }
