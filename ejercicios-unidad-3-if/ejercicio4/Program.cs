@@ -24,7 +24,7 @@ namespace primer_programa
         menor = n3;
       if(n4<menor)
         menor = n4;
-      Console.WriteLine("el menor es " + mayor);
+      Console.WriteLine("el menor es " + menor);
     }
     }
 }
