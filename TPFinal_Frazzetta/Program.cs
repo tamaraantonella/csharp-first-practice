@@ -18,8 +18,6 @@ class Program
             firsRound[0] = false;
         } else if (num % 2 == 0 && num > mayorPares && !firsRound[0]) {
             mayorPares = num;
-            Console.Write("Este es el mayor hasta ahora"+mayorPares);
-            Console.WriteLine("Este es el numero que ingrese" + num);
         } else if (num % 2 != 0) {
             cantImpares++;
         }
