@@ -12,7 +12,6 @@ namespace primer_programa
       solicitar(ref precio, ref cantidad);
       int resultado = producto(precio, cantidad);
       Console.WriteLine("El monto total a pagar es: {0}", resultado);
-
     }
     static int producto(int a, int b)
     {
