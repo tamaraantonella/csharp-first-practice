@@ -33,13 +33,11 @@ namespace primer_programa
           max = cantidadVendida[i];
           indiceMax = i;
         }
-      }
-      for (int i = 0; i < 15; i++)
-      {
         if(cantidadVendida[i] == 0){
           Console.WriteLine("El articulo {0} no se vendio", articulos[i]);
         }
       }
+
       Console.WriteLine("Se vendieron " + cantidadVendida[9] +" del articulo 10");
       Console.WriteLine("El articulo que mas se vendio fue el {0} con {1} unidades", articulos[indiceMax], max);
 
